@@ -3,8 +3,7 @@ def new_hash
 end
 
 def my_hash
-  hash = {}
-  hash
+  { best_speaker: "kef" }
 end
 
 def pioneer
